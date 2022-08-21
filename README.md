@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerpnord)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerpnord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerpnord&theme=algolia&border_radius=15px)](https://github.com/Zerpnord)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerpnord&theme=algolia&show_icons=true&border_radius=15px)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Zerpnord/Zerpnord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
